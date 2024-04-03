@@ -25,8 +25,13 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
+![image](https://github.com/Pooja-sri45/4.Execution_of_NetworkCommends/assets/147081893/01db18fe-8fe8-43cd-884e-e5b3c7d15817)
+![image](https://github.com/Pooja-sri45/4.Execution_of_NetworkCommends/assets/147081893/c0bd7a28-c076-4f30-a5be-ac0b80311212)
 
 ## Output
+![image](https://github.com/Pooja-sri45/4.Execution_of_NetworkCommends/assets/147081893/b52fec08-d006-45a2-859f-9f6534a75200)
+![image](https://github.com/Pooja-sri45/4.Execution_of_NetworkCommends/assets/147081893/701a3270-0115-472d-ae04-37f9ad2ec485)
+
 
 ## Result
 Thus Execution of Network commands Performed 
