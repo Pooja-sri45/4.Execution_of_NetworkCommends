@@ -67,8 +67,23 @@ print(result,unans)
 
 
 ## Output
-![image](https://github.com/Pooja-sri45/4.Execution_of_NetworkCommends/assets/147081893/b52fec08-d006-45a2-859f-9f6534a75200)
-![image](https://github.com/Pooja-sri45/4.Execution_of_NetworkCommends/assets/147081893/701a3270-0115-472d-ae04-37f9ad2ec485)
+
+PING COMMAND
+
+CLIENT
+
+![image](https://github.com/Pooja-sri45/4.Execution_of_NetworkCommends/assets/147081893/aa5811d1-45dc-4ef1-a7d5-dd5f68db63cd)
+
+
+SERVER
+
+![image](https://github.com/Pooja-sri45/4.Execution_of_NetworkCommends/assets/147081893/0a59c162-e553-443d-840e-ccc4d948a6b4)
+
+TRANCEROUTE COMMAND
+
+![image](https://github.com/Pooja-sri45/4.Execution_of_NetworkCommends/assets/147081893/5cb42a88-9575-4e15-a8b3-f5b91c1e4d4b)
+
+
 
 
 ## Result
